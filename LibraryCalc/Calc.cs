@@ -6,13 +6,13 @@ using System.Threading.Tasks;
 
 namespace LibraryCalc
 {
-  public class Calc
+  public static class Calc
     {
-
-       public static int Somma (int a, int b)
-            {int somma = 0;
-            somma=a+b;
-            return somma;
+        
+       public static double Somma (double a, double b)
+            {double ris = 0;
+            
+            return ris;
             }
             }
 
